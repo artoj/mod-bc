@@ -1,0 +1,2 @@
+Small collection of modular arithmetic functions for the bc(1) arbitrary
+precision calculator. Tested on OpenBSD's version of bc(1).
