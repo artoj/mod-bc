@@ -89,7 +89,7 @@ define mul(m) {
 
 # generator 'g' in multiplicative group 'm'
 define gen(g, m) {
-	auto i, v
+	auto i, v, j
 
 	j = 0
 
